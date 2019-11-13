@@ -18,7 +18,7 @@ mosquito surveillance. *eLife*, 6:e27854 (2017)
 Koster. Bacterial predator-prey dynamics in micro-scale patchy
 landscapes. *Proceedings of the Royal Society B*, 283: 20152154 (2016)
 
-0. **[F.J.H. Hol**, B. Hubert, C. Dekker, J.E. Keymer. Adaptive
+0. **F.J.H. Hol**, B. Hubert, C. Dekker, J.E. Keymer. Adaptive
 resistance and growth of *Escherichia coli* bacteria in an antibiotic
 gradient. *The ISME Journal*, 10:30--38 (2016)
 
@@ -61,7 +61,8 @@ U.S.A.* 109:6957--6962 (2012)
 
 0. **F.J.H. Hol**\*, X. Wang\* and J.E. Keymer.
 Population structure increases the evolvability of genetic algorithms.
-*Complexity* 17:58--64 (2012) \* denotes equal contribution
+*Complexity* 17:58--64 (2012)  
+\* denotes equal contribution
 {: reversed="reversed"}
 
 <!-- Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
