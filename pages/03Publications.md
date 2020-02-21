@@ -6,6 +6,8 @@ feature-img: "assets/img/IMG_0504crop.JPG"
 tags:
 ---
 
+0. **F.J.H. Hol**, L. Lambrechts, M. Prakash. [BiteOscope: an open platform to study mosquito blood-feeding behavior.](https://www.biorxiv.org/content/10.1101/2020.02.19.955641v1) *bioRxiv*, 2020.02.19.955641. (2020)
+
 0. **F.J.H. Hol**, G.M. Whitesides, C. Dekker. Bacteria in paper,
 a versatile platform to study bacterial ecology. *Ecology Letters*, 22:
 1316-1323. (2019)
