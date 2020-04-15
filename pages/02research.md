@@ -8,7 +8,7 @@ tags:
 
 Mosquitoes are vectors for diseases including dengue and malaria for which half the world population is at risk. Mosquito-borne pathogens are transmitted during blood feeding, yet despite its crucial role in pathogen transmission, blood feeding behavior remains ill understood. We leverage biophysical, engineering, and machine vision approaches to create tools to study questions such as: How do pathogen infections change mosquito behavior? How does the skin microbiome affect biting and blood feeding? What sensory inputs do mosquitoes use to make feeding decisions? By answering such questions, we aim to provide a deep understanding of the (neuro)biology underlying blood feeding, and the effect that physiology has on this behavior. We take inspiration from the field as well as the lab, and anticipate that new insights into mosquito behavior and pathogen transmission will provide valuable knowledge to combat mosquito-borne diseases.
 
-If this sounds interesting, join us! We have [openings](https://projects.cri-paris.org/projects/pZDJguA1/des) for a postdoc and a technician, more information [here](../assets/HolCRI_postdocAd.pdf){:target="_blank"}.
+<!--- If this sounds interesting, join us! We have [openings](https://projects.cri-paris.org/projects/pZDJguA1/des) for a postdoc and a technician, more information [here](../assets/HolCRI_postdocAd.pdf){:target="_blank"}. -->
 
 <!-- Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
