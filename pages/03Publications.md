@@ -7,11 +7,10 @@ tags:
 ---
 
 0. V. Jove, Z. Gong\*, **F.J.H. Hol**\*, Z. Zhao\*, T.R. Sorrells, T.S. Carroll, M. Prakash, C.S. McBride, L.B. Vosshall. [Sensory Discrimination of Blood and Floral Nectar by *Aedes aegypti* Mosquitoes.](https://www.cell.com/neuron/pdfExtended/S0896-6273(20)30719-4) *Neuron*, 108, (2020)\
-[*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.02.27.954206v1.abstract)
+[*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.02.27.954206v1.abstract) | [github](https://github.com/VosshallLab/Jove_Vosshall_2020)
 
 0. **F.J.H. Hol**, L. Lambrechts, M. Prakash. [BiteOscope: an open platform to study mosquito biting behavior.](https://elifesciences.org/articles/56829) *eLife*, 9:e56829, (2020)\
-[*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.02.19.955641v1)\
-[github](https://github.com/felixhol/biteOscope)
+[*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.02.19.955641v1) |[github](https://github.com/felixhol/biteOscope)
 
 0. **F.J.H. Hol**, G.M. Whitesides, C. Dekker. Bacteria in paper,
 a versatile platform to study bacterial ecology. *Ecology Letters*, 22:
