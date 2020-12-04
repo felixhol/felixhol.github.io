@@ -2,7 +2,7 @@
 layout: page
 title: Bio & Contact
 permalink: /bio/
-feature-img: "assets/img/IMG_2273.JPG"
+feature-img: "assets/img/bitingMosquitoCrop3.jpg"
 tags:
 ---
 

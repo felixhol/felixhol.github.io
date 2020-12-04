@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-feature-img: "assets/img/IMG_2149crop.JPG"
+feature-img: "assets/img/IMG_2273.JPG"
 tags:
 ---
 
