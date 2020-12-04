@@ -2,9 +2,11 @@
 layout: page
 title: Team
 permalink: /team/
-feature-img: "assets/img/IMG_2442crop.JPG"
+feature-img: "assets/img/IMG_2149crop.JPG"
 tags:
 ---
+
+Our interdisciplinary research [team](/team/) is based at [Institut Pasteur](https://research.pasteur.fr/en/) and the [Center for Research and Interdisciplinarity](https://research.cri-paris.org), in Paris, France.
 
 [**Felix Hol**](/bio/)\
 Biophysically inclined mosquito enthusiast trying to understand why mosquitoes are so unbelievably good at transmitting pathogens (and devising ways to stop them).
