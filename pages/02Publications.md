@@ -49,10 +49,4 @@ doi: 10.1002/smll.201303724 (2014)
 
 - **F.J.H. Hol**\*<sup>#</sup>, X. Wang\*<sup>#</sup> and J.E. Keymer<sup>#</sup>. [Population structure increases the evolvability of genetic algorithms.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.21392) *Complexity* 17:58--64 (2012)  
 <!-- \* denotes equal contribution -->
-<!-- {: reversed="reversed"}
- -->
-<!-- Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely. -->
+<!-- {: reversed="reversed"} -->
