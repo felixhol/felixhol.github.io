@@ -15,7 +15,7 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 Wrangler of mosquitoes, tamer of viruses, and brewer of microbes &mdash; Emilie is figuring out how viruses and bacteria change the ways mosquitoes behave.
 
 **Gregory Murray**\
-Wild mosquito hunter, fearless field ecologist, and budding maker/hacker &mdash; Greg is a collector of the finest mosquito pictures and tries to computationally extract the wisdom of the crowds from buzzing cages.
+Poet, wild mosquito hunter, fearless field ecologist, and budding maker/hacker &mdash; Greg is a collector of the finest mosquito pictures and tries to computationally extract the wisdom of the crowds from buzzing cages.
 
 **Clayton Ellington**\
 Traveling engineer, underground explorer, and microfluidic master &mdash; Clay creates the next generation of behavioral assays for biting insects.

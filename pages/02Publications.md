@@ -14,7 +14,8 @@ tags:
 - G.P.D. Murray, E. Giraud, **F.J.H. Hol<sup>#</sup>**. [Characterising mosquito biting behaviour at high resolution.](https://arxiv.org/abs/2107.08743) *arXiv*, 2107.08743 (2021)\
 *under review at Cold Spring Harbor Protocols*
 
-- S. Kumar\*, **F.J.H. Hol**\*, S. Pujhari, C. Ellington, H.V. Narayanan, H. Li, J.L. Rasgon, M. Prakash<sup>#</sup>. Vectorchip: Microfluidic platform for highly parallel bite by bite profiling of mosquito-borne pathogen transmission. [*bioRxiv* 2020.10.19.345603](https://www.biorxiv.org/content/10.1101/2020.10.19.345603v1.abstract) (2020)
+- S. Kumar\*, **F.J.H. Hol**\*, S. Pujhari, C. Ellington, H.V. Narayanan, H. Li, J.L. Rasgon, M. Prakash<sup>#</sup>. Vectorchip: Microfluidic platform for highly parallel bite by bite profiling of mosquito-borne pathogen transmission. *Nature Communications*, *in press*, (2021)\
+[*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.10.19.345603v1.abstract) (2020)
 
 - V. Jove, Z. Gong\*, **F.J.H. Hol**\*, Z. Zhao\*, T.R. Sorrells, T.S. Carroll, M. Prakash, C.S. McBride, L.B. Vosshall<sup>#</sup>. [Sensory Discrimination of Blood and Floral Nectar by *Aedes aegypti* Mosquitoes.](https://www.cell.com/neuron/pdfExtended/S0896-6273(20)30719-4) *Neuron*, 108, (2020)\
 [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.02.27.954206v1.abstract) | [github](https://github.com/VosshallLab/Jove_Vosshall_2020)
