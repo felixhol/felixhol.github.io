@@ -8,10 +8,10 @@ tags:
 
 ### Contact
 
+Institut Pasteur  
 CNRS UMR2000  
 Insect-Virus Interactions Unit  
 Department of Virology  
-Institut Pasteur  
 28 rue du Dr. Roux  
 Paris, France  
 
