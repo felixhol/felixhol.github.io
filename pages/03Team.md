@@ -11,11 +11,14 @@ Our interdisciplinary research [team](/team/) is based at [Institut Pasteur](htt
 [**Felix Hol**](/bio/)\
 Biophysically inclined mosquito enthusiast trying to understand why mosquitoes are so unbelievably good at transmitting pathogens (and devising ways to stop them).
 
+**Theo Maire**\
+Insect connoisseur, low-temperature brewer, and mathematically-inclined biologist or biology-inspired physicist &mdash; Theo builds 4-star mosquito hotels to capture the mosquito life cycle on film.  
+
 **Emilie Giraud**\
 Wrangler of mosquitoes, tamer of viruses, and brewer of microbes &mdash; Emilie is figuring out how viruses and bacteria change the ways mosquitoes behave.
 
-**Gregory Murray**\
-Poet, wild mosquito hunter, fearless field ecologist, and budding maker/hacker &mdash; Greg is a collector of the finest mosquito pictures and tries to computationally extract the wisdom of the crowds from buzzing cages.
+------
 
-**Clayton Ellington**\
-Traveling engineer, underground explorer, and microfluidic master &mdash; Clay creates the next generation of behavioral assays for biting insects.
+**Gregory Murray** &mdash; Poet, wild mosquito hunter, fearless field ecologist.
+
+**Clayton Ellington** &mdash; Traveling engineer, underground explorer, and microfluidic master.
