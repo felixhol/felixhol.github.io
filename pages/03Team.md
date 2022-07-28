@@ -19,6 +19,8 @@ Wrangler of mosquitoes, tamer of viruses, and brewer of microbes &mdash; Emilie 
 
 ------
 
+**Former members**  
+
 **Gregory Murray** &mdash; Poet, wild mosquito hunter, fearless field ecologist.
 
 **Clayton Ellington** &mdash; Traveling engineer, underground explorer, and microfluidic master.
