@@ -8,13 +8,13 @@ tags:
 
 ### Contact
 
-Vector Biology  
-Dept. of Medical Microbiology  
-Radboud Institute for Molecular Life Sciences  
-Radboud University Medical Center  
-Geert Grooteplein 28  
-6525 GA Nijmegen  
-The Netherlands  
+Vector Biology  <br/>
+Dept. of Medical Microbiology <br/>
+Radboud Institute for Molecular Life Sciences  <br/>
+Radboud University Medical Center  <br/>
+Geert Grooteplein 28  <br/>
+6525 GA Nijmegen  <br/>
+The Netherlands  <br/>
 
 
 _______
