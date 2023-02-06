@@ -8,6 +8,7 @@ tags:
 
 ### Contact
 
+email: felix.hol AT radboudumc.nl   <br/>
 Vector Biology  <br/>
 Dept. of Medical Microbiology <br/>
 Radboud Institute for Molecular Life Sciences  <br/>
