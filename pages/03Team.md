@@ -11,13 +11,13 @@ We recently moved from [Institut Pasteur](https://research.pasteur.fr/en/) to th
 [**Felix Hol**](/bio/)\
 Biophysically inclined mosquito enthusiast trying to understand why mosquitoes are so unbelievably good at transmitting pathogens (and devising ways to stop them).
 
-**Theo Maire**\ &mdash; postdoc building 4-star mosquito hotels to capture the mosquito life cycle on film  
+**Theo Maire** &mdash; postdoc building 4-star mosquito hotels to capture the mosquito life cycle on film  
 
-**Zhong Wan**\  &mdash; PhD student combining experiment and theory to unravel mosquito-pathogen interactions  
+**Zhong Wan**  &mdash; PhD student combining experiment and theory to unravel mosquito-pathogen interactions  
 
-**Ali Shahbaaz Khan**\ &mdash; MSc student creating machine learning tools to characterize mosquito behavior
+**Ali Shahbaaz Khan** &mdash; MSc student creating machine learning tools to characterize mosquito behavior
 
-**Anton Ligterink**\ &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
+**Anton Ligterink** &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
 
 
 
