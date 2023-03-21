@@ -11,8 +11,10 @@ tags:
 [google scholar](https://scholar.google.com/citations?user=Kib_WzkAAAAJ&hl=en&oi=ao)
 
 
-- G.P.D. Murray, E. Giraud, **F.J.H. Hol<sup>#</sup>**. [Characterising mosquito biting behaviour at high resolution.](https://arxiv.org/abs/2107.08743) *arXiv*, 2107.08743 (2021)\
-*under review at Cold Spring Harbor Protocols*
+- G.P.D. Murray, E. Giraud, **F.J.H. Hol<sup>#</sup>**. [Characterizing Mosquito Biting Behavior Using the BiteOscope.](https://cshprotocols.cshlp.org/content/early/2023/03/07/pdb.prot108176.abstract) *Cold Spring Harb Protoc* (2023)\
+[*arXiv* version](https://arxiv.org/abs/2107.08743) (2021)
+
+- G.P.D. Murray, E. Giraud, **F.J.H. Hol<sup>#</sup>**. [Characterizing mosquito biting behavior at high resolution.](https://cshprotocols.cshlp.org/content/early/2023/03/07/pdb.top107658.short) *Cold Spring Harb Protoc* (2023)
 
 - S. Kumar\*, **F.J.H. Hol**\*, S. Pujhari, C. Ellington, H.V. Narayanan, H. Li, J.L. Rasgon, M. Prakash<sup>#</sup>. [Vectorchip: Microfluidic platform for highly parallel bite by bite profiling of mosquito-borne pathogen transmission](https://www.nature.com/articles/s41467-021-26300-0). *Nature Communications*, 12, 6018, (2021)\
 [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2020.10.19.345603v1.abstract) (2020)
