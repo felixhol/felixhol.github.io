@@ -15,6 +15,8 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Zhong Wan**  &mdash; PhD student combining experiment and theory to unravel mosquito-pathogen interactions  
 
+**Felix Evers**  &mdash; postdoc integrating microfluidics and microscopy to better understand the malaria parasite  
+
 **Ali Shahbaaz Khan** &mdash; MSc student creating machine learning tools to characterize mosquito behavior
 
 **Anton Ligterink** &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
