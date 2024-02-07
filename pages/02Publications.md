@@ -11,6 +11,8 @@ tags:
 [google scholar](https://scholar.google.com/citations?user=Kib_WzkAAAAJ&hl=en&oi=ao)
 
 
+- T. Maire, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. Arbovirus impact on mosquito behavior: the jury is still out *Trends in Parasitology* (accepted)
+
 - G.P.D. Murray, E. Giraud, **F.J.H. Hol<sup>#</sup>**. [Characterizing Mosquito Biting Behavior Using the BiteOscope.](https://cshprotocols.cshlp.org/content/early/2023/03/07/pdb.prot108176.abstract) *Cold Spring Harb Protoc* (2023)\
 [*arXiv* version](https://arxiv.org/abs/2107.08743) (2021)
 

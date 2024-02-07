@@ -26,7 +26,6 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 
 
-
 ------
 
 **Former members**  
@@ -38,3 +37,5 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 **Clayton Ellington** &mdash; Traveling engineer, underground explorer, and microfluidic master (MSc student - Fulbright).
 
 **Zeynep Ruveyda Özel** &mdash; Machine learning, computer vision (MSc student).
+
+**Ali Shahbaaz Khan** &mdash; MSc student AI4Health
