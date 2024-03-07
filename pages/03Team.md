@@ -19,7 +19,7 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Marianna Bacchi**  &mdash; PhD student exploring the genetics of mosquito decision making    
 
-**Ali Shahbaaz Khan** &mdash; MSc student creating machine learning tools to characterize mosquito behavior
+**Vladyslav Kalyuzhnyy** &mdash; Data Scientist combining machine learning and computer vision to understand mosquito behavior
 
 **Anton Ligterink** &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
 
