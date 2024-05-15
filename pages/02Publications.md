@@ -11,6 +11,8 @@ tags:
 [google scholar](https://scholar.google.com/citations?user=Kib_WzkAAAAJ&hl=en&oi=ao)
 
 
+- S.L. Blanken, W. Prudhomme O’Meara, **F.J.H. Hol**, T. Bousema, C.F. Markwalter<sup>#</sup>. À la carte: how mosquitoes choose their blood meal *Trends in Parasitology* (in press)
+
 - T. Maire, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [Arbovirus impact on mosquito behavior: the jury is still out.](https://www.cell.com/trends/parasitology/abstract/S1471-4922(24)00029-1) *Trends in Parasitology* (2024)
 
 - G.P.D. Murray, E. Giraud, **F.J.H. Hol<sup>#</sup>**. [Characterizing Mosquito Biting Behavior Using the BiteOscope.](https://cshprotocols.cshlp.org/content/early/2023/03/07/pdb.prot108176.abstract) *Cold Spring Harb Protoc* (2023)\
