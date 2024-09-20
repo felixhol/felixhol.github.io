@@ -11,6 +11,8 @@ tags:
 [google scholar](https://scholar.google.com/citations?user=Kib_WzkAAAAJ&hl=en&oi=ao)
 
 
+- L.S. Baik, G.J.S. Talross, S. Gray, H.S. Pattisam, T.N. Peterson, J.E. Nidetz, **F.J.H. Hol**, J.R. Carlson<sup>#</sup>. The taste of humans and nectar: gustation in the Asian tiger mosquito. *Nature* (*in press*)
+
 - S.L. Blanken, W. Prudhomme O’Meara, **F.J.H. Hol**, T. Bousema, C.F. Markwalter<sup>#</sup>. [À la carte: how mosquitoes choose their blood meal.](https://www.cell.com/trends/parasitology/abstract/S1471-4922(24)00136-3) *Trends in Parasitology* (2024)
 
 - T. Maire, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [Arbovirus impact on mosquito behavior: the jury is still out.](https://www.cell.com/trends/parasitology/abstract/S1471-4922(24)00029-1) *Trends in Parasitology* (2024)
