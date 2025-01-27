@@ -21,7 +21,7 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Vladyslav Kalyuzhnyy** &mdash; Data Scientist combining machine learning and computer vision to understand mosquito behavior
 
-**Anton Ligterink** &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
+**Sake Velthuis** &mdash; BSc student exploring mosquito thermal navigation
 
 
 
@@ -36,6 +36,9 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Clayton Ellington** &mdash; Traveling engineer, underground explorer, and microfluidic master (MSc student - Fulbright).
 
-**Zeynep Ruveyda Özel** &mdash; Machine learning, computer vision (MSc student).
+**Anton Ligterink** &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
 
 **Ali Shahbaaz Khan** &mdash; MSc student AI4Health
+
+**Zeynep Ruveyda Özel** &mdash; Machine learning, computer vision (MSc student).
+

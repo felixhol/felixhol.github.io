@@ -11,6 +11,9 @@ tags:
 [google scholar](https://scholar.google.com/citations?user=Kib_WzkAAAAJ&hl=en&oi=ao)
 
 
+- Théo Maire, Zhong Wan, Louis Lambrechts, **F.J.H. Hol<sup>#</sup>**. [BuzzWatch: uncovering multi-scale temporal patterns in mosquito behavior through continuous long-term monitoring.](https://www.biorxiv.org/content/10.1101/2025.01.24.634688v1) *bioRxiv* (2025)\
+[BuzzWatch wiki](https://theomaire.github.io/buzzwatch/) | [github](https://github.com/theomaire/BuzzWatch_app_v2)
+
 - L.S. Baik, G.J.S. Talross, S. Gray, H.S. Pattisam, T.N. Peterson, J.E. Nidetz, **F.J.H. Hol**, J.R. Carlson<sup>#</sup>. [Mosquito taste responses to human and floral cues guide biting and feeding.](https://www.nature.com/articles/s41586-024-08047-y) *Nature* (2024)
 
 - S.L. Blanken, W. Prudhomme O’Meara, **F.J.H. Hol**, T. Bousema, C.F. Markwalter<sup>#</sup>. [À la carte: how mosquitoes choose their blood meal.](https://www.cell.com/trends/parasitology/abstract/S1471-4922(24)00136-3) *Trends in Parasitology* (2024)
