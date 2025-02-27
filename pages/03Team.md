@@ -11,6 +11,8 @@ We are based at the [Radboud University Medical Center](https://www.radboudumc.n
 [**Felix Hol**](/bio/)\
 Biophysically inclined mosquito enthusiast trying to understand why mosquitoes are so unbelievably good at transmitting pathogens (and devising ways to stop them).
 
+**Irene Arnoldi** &mdash; postdoc figuring out how the mosquito mouthparts know where to find food  
+
 **Theo Maire** &mdash; postdoc building 4-star mosquito hotels to capture the mosquito life cycle on film  
 
 **Felix Evers**  &mdash; postdoc integrating microfluidics and microscopy to better understand the malaria parasite  
@@ -19,7 +21,9 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Marianna Bacchi**  &mdash; PhD student exploring the genetics of mosquito decision making    
 
-**Vladyslav Kalyuzhnyy** &mdash; Data Scientist combining machine learning and computer vision to understand mosquito behavior
+**Vladyslav Kalyuzhnyy** &mdash; Computer scientist combining machine learning and computer vision to understand mosquito behavior
+
+**Celina Ronge** &mdash; MSc student visiting from Heidelberg to study biting behavior  
 
 **Sake Velthuis** &mdash; BSc student exploring mosquito thermal navigation
 
