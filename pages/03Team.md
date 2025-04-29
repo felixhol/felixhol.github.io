@@ -27,6 +27,8 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Sake Velthuis** &mdash; BSc student exploring mosquito thermal navigation
 
+**Jard Korma** &mdash; BSc student exploring intradermal navigation of stylets and parasites. 
+
 
 
 
