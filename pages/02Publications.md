@@ -11,6 +11,8 @@ tags:
 [google scholar](https://scholar.google.com/citations?user=Kib_WzkAAAAJ&hl=en&oi=ao)
 
 
+- S. L. Blanken, M.R. Inklaar, Z. Wan, F. Evers, M. Smit, V. Kalyuzhnyy, J.M.J. Verhoef, E.T. Bekkering, M. Schinkel, S. Mulder, C.M. Andrade, G.J. van Gemert, A. Gusinac, P. Zeeuwen, T.H.A. Ederveen, T. Bousema, **F.J.H. Hol<sup>#</sup>**. [Blood, sweat, and beers: investigating mosquito biting preferences amidst noise and intoxication in a cross-sectional cohort study at a large music festival.](https://www.biorxiv.org/content/10.1101/2025.08.21.671470v1) *bioRxiv* (2025)
+
 - T. Maire, Z. Wan, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [BuzzWatch: uncovering multi-scale temporal patterns in mosquito behavior through continuous long-term monitoring.](https://www.biorxiv.org/content/10.1101/2025.01.24.634688v1) *bioRxiv* (2025)\
 [BuzzWatch wiki](https://theomaire.github.io/buzzwatch/) | [github](https://github.com/theomaire/BuzzWatch_app_v2)
 
