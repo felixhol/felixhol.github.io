@@ -6,7 +6,7 @@ feature-img: "assets/img/IMG_2273.JPG"
 tags:
 ---
 
-We are based at the [Radboud University Medical Center](https://www.radboudumc.nl/en/radboud-institute-for-molecular-life-sciences) in beautiful Nijmegen, the Netherlands. We are currently expanding our [team](/team/) and have openings.
+We are based at the [Radboud University Medical Center](https://www.radboudumc.nl/en/radboud-institute-for-molecular-life-sciences) in beautiful Nijmegen, the Netherlands. If you're interesting in joining the team, please contact Felix.
 
 [**Felix Hol**](/bio/)\
 Biophysically inclined mosquito enthusiast trying to understand why mosquitoes are so unbelievably good at transmitting pathogens (and devising ways to stop them).
@@ -17,19 +17,17 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Felix Evers**  &mdash; postdoc integrating microfluidics and microscopy to better understand the malaria parasite  
 
-**Zhong Wan**  &mdash; PhD student combining experiment and theory to unravel mosquito-pathogen interactions  
+**Zhong Wan**  &mdash; PhD student combining experiment and computation to unravel mosquito-pathogen interactions  
 
-**Marianna Bacchi**  &mdash; PhD student exploring the genetics of mosquito decision making    
+**Marianna Bacchi**  &mdash; PhD student exploring mosquito decision making in heterogenous environments    
 
 **Vladyslav Kalyuzhnyy** &mdash; Computer scientist combining machine learning and computer vision to understand mosquito behavior
 
-**Celina Ronge** &mdash; MSc student visiting from Heidelberg to study biting behavior  
+**Co-advised:**  
 
-**Sake Velthuis** &mdash; BSc student exploring mosquito thermal navigation
+**Sara Lynn Blanken**  &mdash; PhD student studying malaria epidemiology in the field and *in slico*. (Main advisor: Teun Bousema)
 
-**Jard Korma** &mdash; BSc student exploring intradermal navigation of stylets and parasites. 
-
-
+**Maartje Inklaar**  &mdash; PhD student on a quest to find transmission-blocking vaccine candidates. (Main advisor: Matthijs Jore)
 
 
 ------
@@ -41,6 +39,12 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 **Gregory Murray** &mdash; Poet, wild mosquito hunter, fearless field ecologist (postdoc).
 
 **Clayton Ellington** &mdash; Traveling engineer, underground explorer, and microfluidic master (MSc student - Fulbright).
+
+**Celina Ronge** &mdash; MSc student visiting from Heidelberg to study biting behavior  
+
+**Sake Velthuis** &mdash; BSc student exploring mosquito thermal navigation
+
+**Jard Korma** &mdash; BSc student exploring intradermal navigation of stylets and parasites. 
 
 **Anton Ligterink** &mdash; MSc student building AI to interpret *Plasmodium* microscopy images
 
