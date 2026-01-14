@@ -13,13 +13,15 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Irene Arnoldi** &mdash; postdoc figuring out how the mosquito mouthparts know where to find food  
 
-**Theo Maire** &mdash; postdoc building 4-star mosquito hotels to capture the mosquito life cycle on film  
+**Manuela Carnaghi** &mdash; postdoc studying how mosquito behavior responds vector control interventions  
 
 **Felix Evers**  &mdash; postdoc integrating microfluidics and microscopy to better understand the malaria parasite  
 
-**Zhong Wan**  &mdash; PhD student combining experiment and computation to unravel mosquito-pathogen interactions  
+**Theo Maire** &mdash; postdoc building 4-star mosquito hotels to capture the mosquito life cycle on film, in the lab as well as in the field 
 
-**Marianna Bacchi**  &mdash; PhD student exploring mosquito decision making in heterogenous environments    
+**Marianna Bacchi**  &mdash; PhD student exploring mosquito decision making in heterogenous environments  
+
+**Zhong Wan**  &mdash; PhD student combining experiment and computation to unravel mosquito-pathogen interactions    
 
 **Vladyslav Kalyuzhnyy** &mdash; Computer scientist combining machine learning and computer vision to understand mosquito behavior
 
