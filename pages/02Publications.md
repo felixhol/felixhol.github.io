@@ -15,6 +15,8 @@ tags:
 
 - Z. Wan, T. Maire<sup>\*</sup>, E. Giraud<sup>\*</sup>, V. Kalyuzhnyy, G.J. van Gemert, K. Lanke, R. Stoter, B. Mordmüller, T. Bousema, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [Deep behavioral phenotyping of pathogen infected mosquitoes reveals species-specific behavior changes enhancing transmission.](https://www.biorxiv.org/content/10.64898/2026.01.06.697763v1) *bioRxiv* (2026)
 
+- C. Andolina, G.J. van Gemert, J. Ramjith, F. Evers, W. Graumans, R. Stoter, K. Teelen, **F.J.H. Hol**, K. Lanke, T. Bousema<sup>#</sup>. [Expelling of P. falciparum sporozoites by Anopheles stephensi mosquitoes during repeated feeding.](https://www.biorxiv.org/content/10.1101/2025.11.17.688877v1.abstract) *bioRxiv* (2025)
+
 - S. L. Blanken, M.R. Inklaar, Z. Wan, F. Evers, M. Smit, V. Kalyuzhnyy, J.M.J. Verhoef, E.T. Bekkering, M. Schinkel, S. Mulder, C.M. Andrade, G.J. van Gemert, A. Gusinac, P. Zeeuwen, T.H.A. Ederveen, T. Bousema, **F.J.H. Hol<sup>#</sup>**. [Blood, sweat, and beers: investigating mosquito biting preferences amidst noise and intoxication in a cross-sectional cohort study at a large music festival.](https://www.biorxiv.org/content/10.1101/2025.08.21.671470v1) *bioRxiv* (2025)
 
 - T. Maire, Z. Wan, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [BuzzWatch: uncovering multi-scale temporal patterns in mosquito behavior through continuous long-term monitoring.](https://www.biorxiv.org/content/10.1101/2025.01.24.634688v1) *bioRxiv* (2025)\
