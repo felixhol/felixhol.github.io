@@ -19,7 +19,7 @@ tags:
 
 - S. L. Blanken, M.R. Inklaar, Z. Wan, F. Evers, M. Smit, V. Kalyuzhnyy, J.M.J. Verhoef, E.T. Bekkering, M. Schinkel, S. Mulder, C.M. Andrade, G.J. van Gemert, A. Gusinac, P. Zeeuwen, T.H.A. Ederveen, T. Bousema, **F.J.H. Hol<sup>#</sup>**. [Blood, sweat, and beers: investigating mosquito biting preferences amidst noise and intoxication in a cross-sectional cohort study at a large music festival.](https://www.biorxiv.org/content/10.1101/2025.08.21.671470v1) *bioRxiv* (2025)
 
-- T. Maire, Z. Wan, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [BuzzWatch: uncovering multi-scale temporal patterns in mosquito behavior through continuous long-term monitoring.](https://www.biorxiv.org/content/10.1101/2025.01.24.634688v1) *bioRxiv* (2025)\
+- T. Maire, Z. Wan, L. Lambrechts, **F.J.H. Hol<sup>#</sup>**. [BuzzWatch: uncovering multi-scale temporal patterns in mosquito behavior through continuous long-term monitoring.](https://elifesciences.org/reviewed-preprints/107916) *eLife*, 14:RP107916, (2025)\
 [BuzzWatch wiki](https://theomaire.github.io/buzzwatch/) | [github](https://github.com/theomaire/BuzzWatch_app_v2)
 
 - L.S. Baik, G.J.S. Talross, S. Gray, H.S. Pattisam, T.N. Peterson, J.E. Nidetz, **F.J.H. Hol**, J.R. Carlson<sup>#</sup>. [Mosquito taste responses to human and floral cues guide biting and feeding.](https://www.nature.com/articles/s41586-024-08047-y) *Nature* (2024)
