@@ -23,6 +23,8 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Zhong Wan**  &mdash; PhD student combining experiment and computation to unravel mosquito-pathogen interactions    
 
+**Bente Aardema**  &mdash; MSc student dissecting mouthparts to dissect the role of mechanosensation in blood feeding     
+
 **Vladyslav Kalyuzhnyy** &mdash; Computer scientist combining machine learning and computer vision to understand mosquito behavior
 
 **Co-advised:**  
@@ -35,6 +37,8 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 ------
 
 **Former members**  
+
+**Maartje Inklaar**  &mdash; PhD student on a quest to find transmission-blocking vaccine candidates. (Main advisor: Matthijs Jore)  
 
 **Emily Giraud** &mdash; Wrangler of mosquitoes, tamer of viruses, and brewer of microbes (postdoc).
 
