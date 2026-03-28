@@ -31,8 +31,6 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Sara Lynn Blanken**  &mdash; PhD student studying malaria epidemiology in the field and *in slico*. (Main advisor: Teun Bousema)
 
-**Maartje Inklaar**  &mdash; PhD student on a quest to find transmission-blocking vaccine candidates. (Main advisor: Matthijs Jore)
-
 
 ------
 
