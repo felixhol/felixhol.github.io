@@ -15,26 +15,32 @@ Biophysically inclined mosquito enthusiast trying to understand why mosquitoes a
 
 **Manuela Carnaghi** &mdash; postdoc studying how mosquito behavior responds vector control interventions  
 
-**Felix Evers**  &mdash; postdoc integrating microfluidics and microscopy to better understand the malaria parasite  
-
 **Theo Maire** &mdash; postdoc building 4-star mosquito hotels to capture the mosquito life cycle on film, in the lab as well as in the field 
 
 **Marianna Bacchi**  &mdash; PhD student exploring mosquito decision making in heterogenous environments  
 
 **Zhong Wan**  &mdash; PhD student combining experiment and computation to unravel mosquito-pathogen interactions    
 
-**Bente Aardema**  &mdash; MSc student dissecting mouthparts to dissect the role of mechanosensation in blood feeding     
+**Noah Mecklenfeld**  &mdash; MSc student in Biomedical Sciences investigating fine-scale biting dynamics in response to diverse cues       
 
-**Vladyslav Kalyuzhnyy** &mdash; Computer scientist combining machine learning and computer vision to understand mosquito behavior
+**Anwar Cruz** &mdash; MSc student in AI building code to learn host-seeking and biting behaviors around the clock  
 
-**Co-advised:**  
+**Co-advised / visitors:**  
 
 **Sara Lynn Blanken**  &mdash; PhD student studying malaria epidemiology in the field and *in slico*. (Main advisor: Teun Bousema)
+
+**Marion Varoqui**  &mdash; postdoc exploring the sub-lethal effects of insecticides on mosquito life, collaboration with [Vicky Ingham](https://www.klinikum.uni-heidelberg.de/en/kliniken-institute/institute/zentrum-fuer-infektiologie/parasitologie/research/current-groups/current-groups/ingham-lab) (Heidelberg University) and [Justin Crocker](https://www.embl.org/groups/crocker/) (EMBL)  
 
 
 ------
 
 **Former members**  
+
+**Felix Evers**  &mdash; postdoc integrating microfluidics and microscopy to better understand the malaria parasite 
+
+**Bente Aardema**  &mdash; MSc student dissecting mouthparts to dissect the role of mechanosensation in blood feeding  
+
+**Vladyslav Kalyuzhnyy** &mdash; Computer scientist combining machine learning and computer vision to understand mosquito behavior
 
 **Maartje Inklaar**  &mdash; PhD student on a quest to find transmission-blocking vaccine candidates. (Main advisor: Matthijs Jore)  
 
